@@ -1,0 +1,12 @@
+package main
+
+import "fmt"
+
+func main() {
+	var fname = "Gagan"
+	var lname = "Chauhan"
+	var age = 20
+	fmt.Println("First Name : %s", fname)
+	fmt.Println("Last Name : %s", lname)
+	fmt.Println("Age : %s", age)
+}
